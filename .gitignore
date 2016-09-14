@@ -1,0 +1,29 @@
+/Library
+/Temp
+/.vs
+/package
+
+# vim
+*.swp
+*.swo
+*.idea
+
+# csproj系
+*.csproj
+*.sln
+
+# 個別設定
+ProjectSettings/EditorBuildSettings.asset
+
+
+##### External以下は含めない！！ #####
+!/External/*
+
+##### Assets以下は含めない！！ #####
+!/Assets/*
+
+
+# その他
+Thumbs.db
+.DS_Store
+
